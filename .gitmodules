@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GDCRNATools"]
+	path = GDCRNATools
+	url = https://git.bioconductor.org/packages/GDCRNATools
+	shallow = true
+	registered = true
+[submodule "Hapi"]
+	path = Hapi
+	url = https://github.com/cran/Hapi
+	shallow = true
+	registered = true
