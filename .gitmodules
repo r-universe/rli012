@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GDCRNATools"]
-	path = GDCRNATools
-	url = https://github.com/rli012/gdcrnatools
 [submodule "Hapi"]
 	path = Hapi
 	url = https://github.com/cran/Hapi
